@@ -1,1 +1,1 @@
-"# SlashMark Internship" 
+# SlashMark Internship
